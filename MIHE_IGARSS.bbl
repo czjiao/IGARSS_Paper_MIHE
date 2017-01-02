@@ -1,0 +1,90 @@
+\begin{thebibliography}{10}
+
+\bibitem{Dietterich:1997}
+T.~G.~Dietterich \etal,
+\newblock ``Solving the multiple-instance problem with axis-parallel
+  rectangles,''
+\newblock {\em Artificial Intell.}, vol. 89, no. 1-2, pp. 31--17, 1997.
+
+\bibitem{Maron:1998}
+O.~Maron and T.~Lozano-Perez,
+\newblock ``A framework for multiple-instance learning.,''
+\newblock {\em NIPS}, vol. 10, 1998.
+
+\bibitem{Zhang:2002}
+Q.~Zhang and S.A. Goldman,
+\newblock ``{EM-DD: An improved multiple-instance learning technique},''
+\newblock {\em NIPS}, vol. 2, pp. 1073--1080, 2002.
+
+\bibitem{Zare:2015fumi}
+C.~Jiao and A.~Zare,
+\newblock ``Functions of multiple instances for learning target signatures,''
+\newblock {\em IEEE Trans. Geosci.e Remote Sens.}, vol. 53, no. 8, pp. 4670 --
+  4686, 2015.
+
+\bibitem{zare2016miace}
+A.~Zare \etal,
+\newblock ``Multiple instance hyperspectral target characterization,''
+\newblock Under Review.
+
+\bibitem{Broadwater:2007}
+J.~Broadwater and R.~Chellappa,
+\newblock ``Hybrid detectors for subpixel targets,''
+\newblock {\em IEEE Trans. Pattern Anal. Mach. Intell.}, vol. 29, no. 11, pp.
+  1891--1903, Nov. 2007.
+
+\bibitem{jiao2016ICPR}
+C.~Jiao and A.~Zare,
+\newblock ``Multiple instance dictionary learning using functions of multiple
+  instances,''
+\newblock in {\em Int. Conf. Pattern Recognition (ICPR)}.
+
+\bibitem{tibshirani1996regression}
+R.~Tibshirani,
+\newblock ``Regression shrinkage and selection via the lasso,''
+\newblock {\em J. of the Royal Statistical Society. Series B (Methodological)},
+  pp. 267--288, 1996.
+
+\bibitem{chen2001atomic}
+S.~Chen \etal,
+\newblock ``Atomic decomposition by basis pursuit,''
+\newblock {\em SIAM review}, vol. 43, no. 1, pp. 129--159, 2001.
+
+\bibitem{daubechies2003iterative}
+I.~Daubechies \etal,
+\newblock ``An iterative thresholding algorithm for linear inverse problems
+  with a sparsity constraint,''
+\newblock {\em Commun. on Pure and Applied Math.}, vol. 57, pp. 1413--1457,
+  2004.
+
+\bibitem{aster:2009}
+AM~Baldridge \etal,
+\newblock ``The \uppercase{ASTER} spectral library version 2.0,''
+\newblock {\em Remote Sens. of Environment}, vol. 113, no. 4, pp. 711--715,
+  2009.
+
+\bibitem{andrews:2002}
+S.~Andrews \etal,
+\newblock ``Support vector machines for multiple-instance learning,''
+\newblock in {\em NIPS}, 2002, pp. 561--568.
+
+\bibitem{Kraut:1999}
+S.~Kraut and L.L. Scharf,
+\newblock ``The {CFAR} adaptive subspace detector is a scale-invariant
+  {GLRT},''
+\newblock {\em IEEE Trans. Signal Process.}, vol. 47, no. 9, pp. 2538 --2541,
+  Sept. 1999.
+
+\bibitem{basener:2010clutter}
+W.~Basener,
+\newblock ``Clutter and anomaly removal for enhanced target detection,''
+\newblock in {\em Proc. SPIE}, 2010, vol. 7695, p. 769525.
+
+\bibitem{gader:2013}
+P.~Gader \etal,
+\newblock ``\uppercase{MUUFL} gulfport hyperspectral and lidar airborne data
+  set,''
+\newblock Tech. {R}ep., University of Florida, Gainesville, FL, REP-2013-570,
+  Oct. 2013.
+
+\end{thebibliography}

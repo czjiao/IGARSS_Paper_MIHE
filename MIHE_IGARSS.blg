@@ -1,0 +1,36 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: MIHE_IGARSS.aux
+The style file: IEEEbib.bst
+Database file #1: MIHE_IGARSS_ref.bib
+I was expecting a `,' or a `}'---line 88 of file MIHE_IGARSS_ref.bib
+ :  
+ :  month={December}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Repeated entry---line 2101 of file MIHE_IGARSS_ref.bib
+ : @article{Kraut:1999
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2189 of file MIHE_IGARSS_ref.bib
+ : @article{Zhang:2002
+ :                    ,
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 2968 of file MIHE_IGARSS_ref.bib
+ :  
+ :  year={2008},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Repeated entry---line 3674 of file MIHE_IGARSS_ref.bib
+ : @article{Kraut:1999
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3734 of file MIHE_IGARSS_ref.bib
+ : @inproceedings{Maron:1998
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3771 of file MIHE_IGARSS_ref.bib
+ : @inproceedings{Zhang:2002
+ :                          ,
+I'm skipping whatever remains of this entry
+Warning--empty journal in zare2016miace
+Warning--empty year in jiao2016ICPR
+(There were 7 error messages)

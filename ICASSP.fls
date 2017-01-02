@@ -1,0 +1,10 @@
+PWD /Users/alinazare/Documents/Papers/2016_08_ICASSP_PMLDAHSI/NGA-ICASSP
+INPUT /usr/local/texlive/2015/texmf.cnf
+INPUT /usr/local/texlive/2015/texmf-dist/web2c/texmf.cnf
+INPUT /usr/local/texlive/2015/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT /Users/alinazare/Documents/Papers/2016_08_ICASSP_PMLDAHSI/NGA-ICASSP/ICASSP.tex
+OUTPUT /Users/alinazare/Documents/Papers/2016_08_ICASSP_PMLDAHSI/NGA-ICASSP/ICASSP.log
+INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+INPUT /usr/local/texlive/2015/texmf-dist/fonts/map/fontname/texfonts.map
+INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/adobe/times/ptmr7t.tfm
